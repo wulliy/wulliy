@@ -1,8 +1,7 @@
-will work on this eventually
+sites that are based:
+- [wasteof.money](https://wasteof.money)
+- [google](https://google.com)
 
 ---
-|[lol](https://example.com)|
-|-|
 
-|test|
-|-|
+also check out this [based subreddit](https://reddit.com/r/femboy)!!11
