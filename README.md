@@ -4,4 +4,6 @@ sites that are based:
 - [riso's epic site](http://riso.gay)
 ---
 
-![](drink_dr_peppa.png)
+<details><summary>dog</summary>
+<img src="drink_dr_peppa.png">
+</details>
