@@ -1,6 +1,8 @@
-sites that are based:
+my name is wuilly and i do art and i do code, sometimes
+
+a couple of sites that i think are pretty cool:
 - [wasteof.money](https://wasteof.money)
-- [google](https://google.com)
+- [google](https://www.google.com)
 - [riso's epic site](http://riso.gay)
 ---
 
