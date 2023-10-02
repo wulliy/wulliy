@@ -1,4 +1,4 @@
-my name is wuilly and i do art and i do code, sometimes
+my name is wuilly and i do art, and i also do code as well, sometimes
 
 a couple of sites that i think are pretty cool:
 - [wasteof.money](https://wasteof.money)
